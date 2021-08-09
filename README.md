@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AmirhosseinBehrad
-- 👀 I’m interested in machine learning
+- 👀 I’m interested in machine learning and artificial intelligence
 - 🌱 I’m currently learning python
 - 📫 How to reach me:email:ahbehrad1385@gmail.com
 
